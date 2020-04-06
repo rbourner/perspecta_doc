@@ -1,14 +1,14 @@
 ![image alt text](images/redhat_consulting.png)
 
-# <div align="center">TVA Perspecta</div>
+# <div align="center">VA Perspecta</div>
 
-# Red Hat Process Automation Manager
+# <div align="center">Red Hat Process Automation Manager</div>
 
-# Proposed Solution
+# <div align="center">Proposed Solution</div>
 
-## V2.0
+## <div align="center">V2.0</div>
 
-## March/April 2020
+## <div align="center">March/April 2020</div>
 
 [[TOC]]
 
