@@ -1,14 +1,14 @@
 ![image alt text](images/redhat_consulting.png)
 
-VA Perspecta
+# VA Perspecta
 
-Red Hat Process Automation Manager
+# Red Hat Process Automation Manager
 
-Proposed Solution
+# Proposed Solution
 
-V2.0
+## V2.0
 
-March/April 2020
+## March/April 2020
 
 [[TOC]]
 
